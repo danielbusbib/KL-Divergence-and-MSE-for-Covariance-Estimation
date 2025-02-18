@@ -20,7 +20,7 @@ in the LOOCV estimator improves KL and NSNR performance
 while reducing MSE performance.
 
 ## KL BASED LOOCV SHRINKAGE ESTIMATOR
-```
+```python
 def loocv_loglike(X, alpha):
     D, N = X.shape
     S = X @ X.T / N
