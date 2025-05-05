@@ -1,5 +1,5 @@
 # KL-Divergence-and-MSE-for-Covariance-Estimation
-code of the paper: Comparing KL Divergence and MSE for Covariance Estimation in Target Detection 
+code of the paper: Comparing KL Divergence and MSE for Covariance Estimation in Target Detection, SSP 25
 
 ## Abstract
 Covariance estimation is a core part of adaptive
@@ -47,4 +47,8 @@ def loocv(X):
   return Chat
 
 ```
+
+## Citation
+
+coming soon
 
