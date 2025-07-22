@@ -50,5 +50,18 @@ def loocv(X):
 
 ## Citation
 
-coming soon
+Please cite if you are using this code for your research:
+
+```
+@INPROCEEDINGS{11073417,
+  author={Busbib, Daniel and Diskin, Tzvi and Wiesel, Ami},
+  booktitle={2025 IEEE Statistical Signal Processing Workshop (SSP)}, 
+  title={Comparing KL Divergence and MSE for Covariance Estimation in Target Detection}, 
+  year={2025},
+  pages={101-105},
+  keywords={Measurement;Conferences;Estimation;Signal processing algorithms;Object detection;Switches;Signal processing;Signal to noise ratio},
+  doi={10.1109/SSP64130.2025.11073417}}
+
+```
+
 
